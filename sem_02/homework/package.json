@@ -1,0 +1,12 @@
+{
+  "name": "genpass_hw",
+  "version": "1.0.1",
+  "description": "generating a password using Math.random",
+  "main": "genpass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pavel Palagin",
+  "license": "ISC"
+}
