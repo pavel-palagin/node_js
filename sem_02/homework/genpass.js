@@ -8,4 +8,4 @@ function passGeneration(passLength) {
   return password;
 }
 
-module.export = { passGeneration };
+module.exports = { passGeneration };
