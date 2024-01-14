@@ -1,1 +1,1 @@
-#Generating a password using Math.random#
+## Generating a password using Math.random
